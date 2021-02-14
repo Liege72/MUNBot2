@@ -22,8 +22,7 @@
 ### Staff Members
 `@Liege#8888`  
 `@Tylerini Linguini#6969`  
-`@Will#0030`  
-`@Mountainjk#4753`  
+`@Will#0030`    
 `@EatThePorg#8464`  
 `@ItsMadMax#3055`  
 
